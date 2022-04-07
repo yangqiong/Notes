@@ -54,3 +54,7 @@ pub struct Post {
     likes: u32
 }
 ```
+
+## 参考
+* [Idiomatic Rust - Constructors](https://www.youtube.com/watch?v=6b-8gpLCrrg&list=PLai5B987bZ9A5MO1oY8uihDWFC5DsdJZq)
+* [构造器](https://fomalhauthmj.github.io/patterns/idioms/ctor.html)
