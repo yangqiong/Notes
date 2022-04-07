@@ -1,7 +1,7 @@
 # Rust 构造器
 
 ## 创建对象
-rust语言中struct没O有构造器。所以一般使用[关联函数](https://kaisery.github.io/trpl-zh-cn/ch05-03-method-syntax.html#%E5%85%B3%E8%81%94%E5%87%BD%E6%95%B0)`new`创建一个对象
+rust语言中struct没有构造器。所以一般使用[关联函数](https://kaisery.github.io/trpl-zh-cn/ch05-03-method-syntax.html#%E5%85%B3%E8%81%94%E5%87%BD%E6%95%B0)`new`创建一个对象
 
 ```
 pub struct User {
