@@ -76,7 +76,7 @@ impl ServerBuilder {
 }
 ```
 
-5. 通过生成器类的使用
+5. 生成器类的使用
 ```
 fn main() {
     let host = "localhost".to_owned();
